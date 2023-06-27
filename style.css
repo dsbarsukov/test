@@ -16,3 +16,8 @@ header {
 h2{
     color:blueviolet
 }
+
+.Block_red{
+    width: 100px; height: 400px;
+    background-color: red;
+}
