@@ -20,4 +20,9 @@ h2{
 .Block_red{
     width: 100px; height: 400px;
     background-color: red;
+}    
+.block_text {
+    width: 100px; height: 100px;
+    display: flex; justify-content: center; align-items: center;
+    background-color: goldenrod;
 }
